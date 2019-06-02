@@ -3,8 +3,7 @@ Note : For admin login and store updated wallet txn used diffrent schema.
 
 Done this Sample in Node js Version v10.15.3 in loopback Framework.
 dowload this clone
-setup of loopback
-# Run npm install request
+setup of loopback used libraries is request
 # Run nodemon .
 # server will start on 3000 port
 
