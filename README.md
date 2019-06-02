@@ -1,14 +1,14 @@
 # PaytmClone
-# Note : For admin login and store updated wallet txn used diffrent schema.
+Note : For admin login and store updated wallet txn used diffrent schema.
 
 Done this Sample in Node js Version v10.15.3
 dowload this clone
-# setup of loopback
-# Run npm install request
-# Run nodemon .
-# server will start on 3000 port
+setup of loopback
+Run npm install request
+Run nodemon .
+server will start on 3000 port
 
-# Please find below few API's URL and  request.
+Please find below few API's URL and  request.
 
 registration
 
